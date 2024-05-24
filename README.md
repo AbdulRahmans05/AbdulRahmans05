@@ -6,6 +6,6 @@
 
 📧 You can reach out to me at abdulrahman.off05@gmail.com.
 
-🌐 Check out my GitHub profile for more information and projects: [GitHub Profile](https://github.com/yourusername)
+🌐 Check out my GitHub profile for more information and projects: https://github.com/AbdulRahmans05
 
 📝 Let's connect and create something impactful together!
